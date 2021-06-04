@@ -20,7 +20,7 @@ print(name * 2)
 # -- Changing variables --
 # Variables are names for values.
 
-a = 25
+a = 30
 b = a
 
 # Here we've given the value '25' the names 'a' and 'b'.
@@ -34,3 +34,4 @@ b = 17
 
 print(a)
 print(b)
+print(a+b)
